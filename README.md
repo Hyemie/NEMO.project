@@ -1,11 +1,9 @@
 # 🌱NEMO Project
 **기후위기의 심각성을 알리고 패스트 패션에 대항**하고자, **C2C 방식으로 중고 의류를 대여**해주는 서비스 플랫폼을 만들었습니다.
 
-### MySQL 쿼리문
-https://github.com/Hyemie/NEMO.project/issues/2#issue-1499702791
+### [MySQL 쿼리문](https://github.com/Hyemie/NEMO.project/issues/2#issue-1499702791)
 
-### 결과보고서
-https://github.com/Hyemie/NEMO.project/issues/1#issue-1499701286
+### [결과보고서 PPT 확인하기](https://github.com/Hyemie/NEMO.project/issues/1#issue-1499701286)
 
 ## ⌨️Tech stacks
 Database :  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
