@@ -1,6 +1,10 @@
 # NEMO Project
 기후위기의 심각성을 알리고 패스트 패션에 대항하고자, C2C 방식으로 중고 의류를 대여해주는 서비스 플랫폼을 만들었습니다.
 
+# MySQL 쿼리문
+
+# 시연 동영상
+
 ## ⌨️Tech stacks
 Database :  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
