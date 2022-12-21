@@ -13,6 +13,9 @@
 - 회원가입 시 메일로 인증코드 확인
 - 신고하기 기능(회원/관리자 입장에서 각각 컨트롤 가능)
 
+#### 시연 동영상
+[![Video](http://img.youtube.com/vi/e79PFRLdxTI/0.jpg)](https://youtu.be/e79PFRLdxTI)
+
 #### 개발 기간
 ✅ 2022년 10월 17일 ~ 2022년 11월 30일
 
